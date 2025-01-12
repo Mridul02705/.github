@@ -1,12 +1,71 @@
-# Advance your GitHub journey
 
-<img alt="" src=https://user-images.githubusercontent.com/1221423/156894097-ff2d6566-7b6a-4488-950e-f4ebe990965a.svg width=200 align=right>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About Me</title>
+    
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="https://mirror-hickory-catmint.glitch.me/">←</a>
+        <a href="about.html"></a>
+      </nav>
+    </header>
+    <main>
+      <h1>About Me</h1>
+      <p>
+        Hello, my name is <span style="color: blue; font-weight: bold">Mridul Mandloi </span>.
+        </p>
+      
+        
+      
 
-_Learn how to use GitHub with interactive courses designed for beginners and experts._
 
-- **Learning should be fun**: There are no simulations or boring tutorials here, just hands-on lessons created by GitHub and taught with GitHub Actions.
-- **Real projects**: Learn new skills while working in your own copy of a real project.
-- **Helpful bot**: GitHub Actions provides instructions and feedback throughout your journey.
-- **Real workflow**: Everything happens with real GitHub features, such as Issues, Actions, and Codespaces.
+  
+      <ul>
+    <li><strong>My Coding Journey:-</strong>
+    
+When I Started Coding: I started coding in 2023 class 15th October, .
 
-Get started building your own courses with our [GitHub Skills Quickstart Guide](https://skills.github.com/quickstart). 🌟
+First Learnings: 
+        My initial learnings<span style="color: blue; font-weight: bold"> HTML.</span>
+
+Experience with CodeYogi:-
+Joining CodeYogi: I joined CodeYogi in  October 2023.
+
+Learnings at CodeYogi:- 
+      I have learned HTML, CSS, JavaScript some knowledge  this program.
+
+Coding Practice: Phone...
+
+  -:Additional Achievements Awards:- 
+      I earned My coding certificate <span style="color: blue; font-weight: bold">by collector sir.</span>
+
+Other Skills:-
+      Apart from coding, I have also gained knowledge in ms-word ,excel.</li>
+      
+       Here are <span style="color: blue; font-weight: bold">my personal details:</span>.
+      
+        <li><strong>College Name:</strong> Government Atal Bihari Vajpayee Art's and Commerce College, Indore</li>
+         <li><strong>My dreams:</strong> Plan: 1:- I want to become a perfect web developer
+Plan: 2 :-My dream is to become an IAS officer...
+Reason: I want to achieve this goal because I am hardworking.</li>
+        <li><strong>Email:</strong> mridulmandloi062@gmail.com</li>
+      <li><strong>Contact:</strong>7223961284</li>
+        
+        <li><strong>Family Members:</strong> Father, Mother, Sister, and Me</li>
+        <li><strong>Father's Occupation:</strong> Teacher in a Government School</li>
+        <li><strong>Mother's Role:</strong> Homemaker</li>
+        <li><strong>My sister in a :</strong>8th class be studying</li>
+      </ul>
+    </main>
+    <footer>
+      2025@dewas(MP)
+    </footer>
+  </body>
+</html>
+ 
